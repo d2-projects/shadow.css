@@ -1,6 +1,6 @@
 {
-  "name": "shadow.css",
-  "version": "1.0.0",
+  "name": "@d2-projects/shadow.css",
+  "version": "1.0.1",
   "description": "Create beautiful CSS shadow quickly",
   "main": "shadow.css",
   "scripts": {
