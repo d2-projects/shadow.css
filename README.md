@@ -1,6 +1,12 @@
-# shadow.css
-
 ![preview](https://raw.githubusercontent.com/d2-projects/shadow.css/master/doc/preview.png)
+
+## Thanks
+
+[Tobias Bjerrome Ahlin](https://tobiasahlin.com)
+
+## Preview
+
+[codepen](https://codepen.io/fairyever/pen/PoopQqM)
 
 ## CSS Class
 
