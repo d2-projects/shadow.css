@@ -1,5 +1,7 @@
 # shadow.css
 
+![preview](https://raw.githubusercontent.com/d2-projects/shadow.css/master/doc/preview.png)
+
 ## CSS Class
 
 * `shadow-4`
